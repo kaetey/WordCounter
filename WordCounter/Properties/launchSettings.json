@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "WordCounter": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\ongco\\Desktop\\WS2022\\FPROG_FunktionaleProgrammierung\\FPROG_Projekt"
+    }
+  }
+}
